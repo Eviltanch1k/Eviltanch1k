@@ -51,16 +51,16 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 </p>
 
 <h3 align="left">Organizing test cases and suits:</h3>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-repository.png" target="_blank" rel="noreferrer">Qase repository</a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-smoke-test-plan.png" target="_blank" rel="noreferrer">Smoke test plan in Qase</a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-case.png" target="_blank" rel="noreferrer">Test case example</a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-plans.png" target="_blank" rel="noreferrer">Test plans in Qase</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-repository.png" target="_blank" rel="noreferrer">Qase repository</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-smoke-test-plan.png" target="_blank" rel="noreferrer">Smoke test plan in Qase</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-case.png" target="_blank" rel="noreferrer">Test case example</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-plans.png" target="_blank" rel="noreferrer">Test plans in Qase</a>
 
 <h3 align="left">Examples of my bug reports in YouTrack:</h3>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-1.png" target="_blank" rel="noreferrer">Bug report 1</a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-2.png" target="_blank" rel="noreferrer">Bug report 2</a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-3.png" target="_blank" rel="noreferrer">Bug report 3</a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-4.png" target="_blank" rel="noreferrer">Bug report 4</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-1.png" target="_blank" rel="noreferrer">Bug report 1</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-2.png" target="_blank" rel="noreferrer">Bug report 2</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-3.png" target="_blank" rel="noreferrer">Bug report 3</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-4.png" target="_blank" rel="noreferrer">Bug report 4</a>
 
 <h3 align="left">Checklists and test reports:</h3>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/tasks/test-task-1.pdf" target="_blank" rel="noreferrer">Testing registration form (extended report)</a>
+	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/tasks/test-task-1.pdf" target="_blank" rel="noreferrer">Testing registration form (extended report)</a>
