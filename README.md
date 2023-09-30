@@ -44,23 +44,22 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 
 <h3 align="left">Some of my certificates:</h3>
 <p align="left">
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/certificates/9537339_2381477.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2381477.ru.jpg" alt="figma" width="306" height="224"/> </a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2382704.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2382704.ru.jpg" alt="figma" width="306" height="224"/> </a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2384323.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2384323.ru.jpg" alt="figma" width="306" height="224"/> </a>
-	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2401794.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2401794.ru.jpg" alt="figma" width="306" height="224"/> </a>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/certificates/9537339_2381477.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2381477.ru.jpg" alt="" width="306" height="224"/> </a>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2382704.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2382704.ru.jpg" alt="" width="306" height="224"/> </a>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2384323.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2384323.ru.jpg" alt="" width="306" height="224"/> </a>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2401794.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2401794.ru.jpg" alt="" width="306" height="224"/> </a>
 </p>
 
 <h3 align="left">Organizing test cases and suits:</h3>
-	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-repository.png" target="_blank" rel="noreferrer">Qase repository</a></p>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-repository.png" target="_blank" rel="noreferrer">Qase repository</a><p>
 	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-smoke-test-plan.png" target="_blank" rel="noreferrer">Smoke test plan in Qase</a></p>
 	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-case.png" target="_blank" rel="noreferrer">Test case example</a></p>
 	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-plans.png" target="_blank" rel="noreferrer">Test plans in Qase</a></p>
 
 <h3 align="left">Examples of my bug reports in YouTrack:</h3>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-1.png" target="_blank" rel="noreferrer">Bug report 1</a>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-2.png" target="_blank" rel="noreferrer">Bug report 2</a>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-3.png" target="_blank" rel="noreferrer">Bug report 3</a>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-4.png" target="_blank" rel="noreferrer">Bug report 4</a>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-1.png" target="_blank" rel="noreferrer">Bug report 1</a><p>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-2.png" target="_blank" rel="noreferrer">Bug report 2</a><p>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-3.png" target="_blank" rel="noreferrer">Bug report 3</a><p>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-4.png" target="_blank" rel="noreferrer">Bug report 4</a><p>
 
 <h3 align="left">Checklists and test reports:</h3>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/tasks/test-task-1.pdf" target="_blank" rel="noreferrer">Testing registration form (extended report)</a>
