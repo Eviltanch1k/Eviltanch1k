@@ -41,3 +41,11 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/slack.svg" alt="Slack" width="40" height="40"/>
 	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/sublime.svg" alt="Sublime" width="40" height="40"/>
 </p>
+
+<h3 align="left">Some of my certificates:</h3>
+<p align="left">
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/certificates/9537339_2381477.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2381477.ru.jpg" alt="figma" width="306" height="224"/> </a>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2382704.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2382704.ru.jpg" alt="figma" width="306" height="224"/> </a>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2384323.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2384323.ru.jpg" alt="figma" width="306" height="224"/> </a>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2401794.ru.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/da111863900d8649b4d4638516d8ae5dcb3ed577/certificates/9537339_2401794.ru.jpg" alt="figma" width="306" height="224"/> </a>
+</p>
