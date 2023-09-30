@@ -51,10 +51,10 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 </p>
 
 <h3 align="left">Organizing test cases and suits:</h3>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-repository.png" target="_blank" rel="noreferrer">Qase repository</a>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-smoke-test-plan.png" target="_blank" rel="noreferrer">Smoke test plan in Qase</a>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-case.png" target="_blank" rel="noreferrer">Test case example</a>
-	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-plans.png" target="_blank" rel="noreferrer">Test plans in Qase</a>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-repository.png" target="_blank" rel="noreferrer">Qase repository</a></p>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-smoke-test-plan.png" target="_blank" rel="noreferrer">Smoke test plan in Qase</a></p>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-case.png" target="_blank" rel="noreferrer">Test case example</a></p>
+	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/qase/qase-test-plans.png" target="_blank" rel="noreferrer">Test plans in Qase</a></p>
 
 <h3 align="left">Examples of my bug reports in YouTrack:</h3>
 	- <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-1.png" target="_blank" rel="noreferrer">Bug report 1</a>
