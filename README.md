@@ -25,4 +25,19 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 📫 Reach me out in TG **@eviltanch1k** or by **eviltanch1k@gmail.com**
 
 <h3 align="left">Tools I use:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left">
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/youtrack.svg" alt="YouTrack" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/qase.svg" alt="Qase" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/jira.svg" alt="Jira" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/github.svg" alt="GitHub" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/devtools.svg" alt="DevTools" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/dbeaver.png" alt="DBeaver" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/postman.svg" alt="Postman" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/figma.svg" alt="Figma" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/miro.svg" alt="Miro" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/notion.svg" alt="Notion" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/slack.svg" alt="Slack" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/sublime.svg" alt="Sublime" width="40" height="40"/>
+</p>
