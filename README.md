@@ -26,18 +26,18 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 
 <h3 align="left">Tools I use:</h3>
 <p align="left">
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/youtrack.svg" alt="YouTrack" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/qase.svg" alt="Qase" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/jira.svg" alt="Jira" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/github.svg" alt="GitHub" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/youtrack.svg" alt="YouTrack" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/qase.svg" alt="Qase" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/jira.svg" alt="Jira" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/github.svg" alt="GitHub" width="40" height="40"/>
 	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/9d3a6406731d36e5881754ce42ccbe3368da26b8/design/devtools.svg" alt="DevTools" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/dbeaver.png" alt="DBeaver" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/postman.svg" alt="Postman" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/figma.svg" alt="Figma" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/miro.svg" alt="Miro" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/notion.svg" alt="Notion" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/slack.svg" alt="Slack" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/sublime.svg" alt="Sublime" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/dbeaver.png" alt="DBeaver" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/postman.svg" alt="Postman" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/figma.svg" alt="Figma" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/miro.svg" alt="Miro" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/notion.svg" alt="Notion" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/slack.svg" alt="Slack" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/sublime.svg" alt="Sublime" width="40" height="40"/>
 </p>
