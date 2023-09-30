@@ -30,7 +30,7 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/qase.svg" alt="Qase" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/jira.svg" alt="Jira" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/github.svg" alt="GitHub" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/devtools.svg" alt="DevTools" width="40" height="40"/>
+	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/9d3a6406731d36e5881754ce42ccbe3368da26b8/design/devtools.svg" alt="DevTools" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/dbeaver.png" alt="DBeaver" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/postman.svg" alt="Postman" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/Eviltanch1k/Eviltanch1k/blob/main/design/figma.svg" alt="Figma" width="40" height="40"/>
