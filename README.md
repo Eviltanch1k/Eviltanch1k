@@ -63,3 +63,4 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 	<p><a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/89c1216170f7c355fb8466dff4341b884518b723/bugs/youtrack-bug-example-4.png" target="_blank" rel="noreferrer">Bug report 4</a><p>
 
 <h3 align="left">Checklists and test reports:</h3>
+	<a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/5e3663cd2518212148bffd0bbbcc71195e8a546f/tasks/test-task-1.pdf" target="_blank" rel="noreferrer"> <img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5e3663cd2518212148bffd0bbbcc71195e8a546f/tasks/test-task-1.png" alt="" width="423" height="466"/> </a>
