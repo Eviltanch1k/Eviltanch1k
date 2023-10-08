@@ -24,6 +24,8 @@ Hi, my name is Tatiana. I have two diplomas in construction, but I have always b
 
 📫 Reach me out in TG **@eviltanch1k** or by **eviltanch1k@gmail.com**
 
+🪪 My CV is available <a href="https://github.com/Eviltanch1k/Eviltanch1k/blob/e250d10f54588400a61e0f5038a02605ce098352/belova_cv.pdf" target="_blank" rel="noreferrer">here</a>
+
 <h3 align="left">Tools I use:</h3>
 <p align="left">
 	<img src="https://github.com/Eviltanch1k/Eviltanch1k/blob/5acc950c4ed86ffdb330c90422a7e78d397ce3ac/design/youtrack.svg" alt="YouTrack" width="40" height="40"/>
